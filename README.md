@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Dev Front-End e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu canal do Youtube, aproveita e passa lá:
+    Sou Dev. Front-End e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu canal do Youtube, aproveita e passa lá:
     <br>
     <a href="https://www.youtube.com/channel/UC-n7GUD6a2c-UFAjZUAYDZQ" target="_blank">
       <img
