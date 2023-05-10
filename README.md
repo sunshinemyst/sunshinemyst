@@ -1,10 +1,10 @@
 <h1 align="center">
     Olá! meu nome é
-    <a href="https://www.linkedin.com/in/sxtxrndev/"> Sxtxrn</a> 👨🏻‍💻!
+    <a href="https://www.linkedin.com/in/sxtxrncode/"> André</a> 👨🏻‍💻!
   </h1>
   
   <p align="center">
-    Sou Dev. Front-End e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu canal do Youtube
+    Sou Dev. Front-end e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu canal do Youtube
     <br>
 <!-- Languages and Tools -->
 
@@ -100,14 +100,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Sxtxrn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SxtxrnDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Sxtxrn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxtxrncode&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SxtxrnDev&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=sxtxrncode&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SxtxrnDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxtxrncode&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
