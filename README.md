@@ -4,7 +4,7 @@
   </h1>
   
   <p align="center">
-    Sou Dev. Frontend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu canal do Youtube
+    Sou Dev. Frontend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu Linkedin!
     <br>
 <!-- Languages and Tools -->
 
