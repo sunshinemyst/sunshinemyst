@@ -31,9 +31,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/reactjs" target="_blank" rel="noreferrer">
-      
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/angularjs" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />       
