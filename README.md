@@ -52,32 +52,6 @@
 <br>
 <br>
 
-<!-- Latest YouTube Videos -->
-
-<h2 style="color: #44AEFB">🎦 Meus ultimos videos do Youtube</h2>
-<br />
-
-<!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<h1>Em breve postarei videos!!<h1>
-<!-- END YOUTUBE-CARDS -->
-</div>
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UC-n7GUD6a2c-UFAjZUAYDZQ"  target="_blank">
-        <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-n7GUD6a2c-UFAjZUAYDZQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UC-n7GUD6a2c-UFAjZUAYDZQ"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-n7GUD6a2c-UFAjZUAYDZQ?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-</div>
-<br>
-<!-- End Youtube Buttons -->
-
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Estatisticas</h2>
@@ -118,29 +92,3 @@
     </a>
 </div>
 <!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
