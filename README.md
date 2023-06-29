@@ -33,17 +33,8 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/reactjs" target="_blank" rel="noreferrer">
       <img alt="reactjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/angularjs" target="_blank" rel="noreferrer"> 
-      <img alt="angularjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />       
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/vuejs" target="_blank" rel="noreferrer">
-      <img alt="vuejs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/discordjs" target="_blank" rel="noreferrer">
       <img  alt="DiscordJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
