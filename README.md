@@ -33,9 +33,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/reactjs" target="_blank" rel="noreferrer">
       <img alt="reactjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/discordjs" target="_blank" rel="noreferrer">
       <img  alt="DiscordJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
   </a>
