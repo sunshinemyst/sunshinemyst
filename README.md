@@ -57,14 +57,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![myststars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myststars&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![m4n1acc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4n1acc&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=myststars&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=m4n1acc&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myststars&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1acc&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
