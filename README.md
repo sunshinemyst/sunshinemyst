@@ -4,7 +4,7 @@
   </h1>
   
   <p align="center">
-    Sou Dev. Frontend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br> e no meu Linkedin!
+    Sou Dev. Frontend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br>
     <br>
 <!-- Languages and Tools -->
 
@@ -18,12 +18,6 @@
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/html" target="_blank" rel="noreferrer">
-      <img  alt="Html5" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="Css3" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -33,8 +27,8 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/reactjs" target="_blank" rel="noreferrer">
       <img alt="reactjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/discordjs" target="_blank" rel="noreferrer">
-      <img  alt="DiscordJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
+  <a href="https://developer.mozilla.org/pt-BR" target="_blank" rel="noreferrer">
+      <img alt="electronjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   </a>
 </div>
 <br>
@@ -57,14 +51,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![m4n1acc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4n1acc&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![sunshinemyst's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunshinemyst&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=m4n1acc&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=sunshinemyst&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4n1acc&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunshinemyst&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
