@@ -27,7 +27,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/reactjs" target="_blank" rel="noreferrer">
       <img alt="reactjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR" target="_blank" rel="noreferrer">
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
       <img alt="electronjs" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   </a>
 </div>
