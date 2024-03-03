@@ -4,11 +4,11 @@
   </h1>
   
   <p align="center">
-    Sou Dev. Frontend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br>
+    Sou Dev. Backend e gosto de compartilhar o meu conhecimento e aprendizado aqui no GitHub <br>
     <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Linguagens e Ferramentas</h2>
+<h2 style="color: #44AEFB">⚙️ Linguagens</h2>
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
